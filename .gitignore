@@ -39,3 +39,13 @@ gradle-app.setting
 ##############################
 .vscode/
 .code-workspace
+
+##############################
+## IntelliJ
+##############################
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
